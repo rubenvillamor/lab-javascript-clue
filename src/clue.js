@@ -172,7 +172,7 @@ function pickMystery() {
 
 
 
-// ITERATION 3
+// ITERATION 3.0
 
 function revealMystery(envelope) {
   const { suspect, weapon, room } = envelope;
